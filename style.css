@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+section#featured-property {
+  text-align: center;
+}
+nav a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(255, 182, 255);
+}
+section#figcaption {
+  font-size: smaller;
+}
